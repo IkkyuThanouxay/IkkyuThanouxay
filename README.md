@@ -5,4 +5,4 @@
 
 💞️ I’m looking to collaborate on small-scale open source projects, particularly those that allow me to utilize and grow my skills in Python, C++, and C. I am open to any opportunities that will allow me to learn more about full-stack development and data analysis.
 
-📫 How to reach me: You can reach me via email at ikkyustudyonly@gmail.com.
+📫 How to reach me: You can reach me via email at ikkyustudyonly+github@gmail.com.
